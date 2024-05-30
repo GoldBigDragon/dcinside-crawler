@@ -1,0 +1,18 @@
+{
+    "policeofficer": {
+        "name": "순경 갤러리",
+        "URL": "https://gall.dcinside.com/board/lists?id=policeofficer",
+        "keyword": ["비밀","기밀","사실"],
+        "is_mini_gallery": false,
+        "search_start_date": "2024-05-29",
+        "search_end_date": "9999-12-25"
+    },
+    "gong": {
+        "name": "현직 공무원 갤러리",
+        "URL": "https://gall.dcinside.com/mini/board/lists?id=gong",
+        "keyword": ["비밀","기밀","사실"],
+        "is_mini_gallery": true,
+        "search_start_date": "2024-05-29",
+        "search_end_date": "9999-12-25"
+    }
+}
