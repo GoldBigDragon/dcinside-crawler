@@ -1,4 +1,4 @@
-<a href="/README.md">📕 English</a> <a href="/GLOBAL_README/README_KO.md">📕 한국어</a>  
+<a href="/README.md">📕 English</a> <a href="/GLOBAL_README/README_KR.md">📕 한국어</a><a href="/GLOBAL_README/README_JP.md">📕 日本語</a><a href="/GLOBAL_README/README_CN.md">📕 中文</a><a href="/GLOBAL_README/README_RU.md">📕 Pусский</a>  
 # dcinside-crawler
 <p align="center"><img src="/GLOBAL_README/icon.png" alt="Dcinside crawler logo" height="200"></p>
 
