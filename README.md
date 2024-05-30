@@ -5,7 +5,7 @@
 dcinside-crawler is a web crawler that targeted <a href="https://www.dcinside.com/">dcinside</a>.  
 Created this because a police officer I know said he needed a web crawler for the <a href="https://www.dcinside.com/">dcinside</a>.  
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="made with Python 3.12.0">  
+<img src="https://img.shields.io/badge/python%203.12.0-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="made with Python 3.12.0">  
 
 ---
 
@@ -48,22 +48,22 @@ Created this because a police officer I know said he needed a web crawler for th
 ### 2. Select menu
 <p align="center"><img src="/GLOBAL_README/02_menu.png" alt="Menu" height="200"></p>  
 <ol>
-  <p align="center"><img src="/GLOBAL_README/03_show_targets.png" alt="Target list" height="150"></p>
   <li>Show Search Targets: Show search targets and settings.</li>
-  <p align="center"><img src="/GLOBAL_README/04_edit_targets.png" alt="Edit target" height="150"></p>
+  <p align="center"><img src="/GLOBAL_README/03_show_targets.png" alt="Target list" height="150"></p>
   <li>Edit Search Targets: Edit search targets or add new target.</li>
-  <p align="center"><img src="/GLOBAL_README/07_export_csv.png" alt="Export CSV" height="150"></p>
+  <p align="center"><img src="/GLOBAL_README/04_edit_targets.png" alt="Edit target" height="150"></p>
   <li>Export CSV File: Export data as csv format.</li>
+  <p align="center"><img src="/GLOBAL_README/07_export_csv.png" alt="Export CSV" height="150"></p>
   <li>Exit Program: Exit program safely.</li>
 </ol>
 
 ### 3. Edit target
 <p align="center"><img src="/GLOBAL_README/04_edit_targets.png" alt="Edit target" height="200"></p>  
 <ol>
-  <p align="center"><img src="/GLOBAL_README/05_add_targets.png" alt="Add target" height="150"></p>
   <li>Add Search Target Gallery: You can add new target.</li>
-  <p align="center"><img src="/GLOBAL_README/06_edit_settings.png" alt="Edit target" height="150"></p>
+  <p align="center"><img src="/GLOBAL_README/05_add_targets.png" alt="Add target" height="150"></p>
   <li>Select specific gallery: You can edit target.</li>
+  <p align="center"><img src="/GLOBAL_README/06_edit_settings.png" alt="Edit target" height="150"></p>
 </ol>
 
 ---

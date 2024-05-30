@@ -5,7 +5,7 @@
 dcinside-crawler는 <a href="https://www.dcinside.com/">디씨인사이드</a>를 대상으로한 웹 크롤러입니다.  
 지인 경찰분이 <a href="https://www.dcinside.com/">디씨인사이드</a>를 대상으로한 크롤러가 필요하다고 부탁하여 개발하게 되었습니다.  
 
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="made with Python 3.12.0">  
+<img src="https://img.shields.io/badge/python%203.12.0-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="made with Python 3.12.0">  
 
 ---
 
@@ -48,22 +48,22 @@ dcinside-crawler는 <a href="https://www.dcinside.com/">디씨인사이드</a>�
 ### 2. 메뉴 선택
 <p align="center"><img src="/GLOBAL_README/02_menu.png" alt="Menu" height="200"></p>  
 <ol>
-  <p align="center"><img src="/GLOBAL_README/03_show_targets.png" alt="Target list" height="150"></p>
   <li>Show Search Targets: 검색 대상과 설정을 확인합니다.</li>
-  <p align="center"><img src="/GLOBAL_README/04_edit_targets.png" alt="Edit target" height="150"></p>
+  <p align="center"><img src="/GLOBAL_README/03_show_targets.png" alt="Target list" height="150"></p>
   <li>Edit Search Targets: 검색 대상을 수정하거나 추가합니다.</li>
-  <p align="center"><img src="/GLOBAL_README/07_export_csv.png" alt="Export CSV" height="150"></p>
+  <p align="center"><img src="/GLOBAL_README/04_edit_targets.png" alt="Edit target" height="150"></p>
   <li>Export CSV File: 데이터를 CSV 파일 포맷으로 출력합니다.</li>
+  <p align="center"><img src="/GLOBAL_README/07_export_csv.png" alt="Export CSV" height="150"></p>
   <li>Exit Program: 프로그램을 안전하게 종료합니다.</li>
 </ol>
 
 ### 3. 검색 대상 수정
 <p align="center"><img src="/GLOBAL_README/04_edit_targets.png" alt="Edit target" height="200"></p>  
 <ol>
-  <p align="center"><img src="/GLOBAL_README/05_add_targets.png" alt="Add target" height="150"></p>
   <li>Add Search Target Gallery: 새로운 검색 대상을 추가합니다.</li>
-  <p align="center"><img src="/GLOBAL_README/06_edit_settings.png" alt="Edit target" height="150"></p>
+  <p align="center"><img src="/GLOBAL_README/05_add_targets.png" alt="Add target" height="150"></p>
   <li>Select specific gallery: 검색 대상을 수정합니다.</li>
+  <p align="center"><img src="/GLOBAL_README/06_edit_settings.png" alt="Edit target" height="150"></p>
 </ol>
 
 ---
