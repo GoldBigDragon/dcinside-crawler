@@ -1,6 +1,6 @@
 <a href="/README.md">📕 English</a> <a href="/GLOBAL_README/README_KO.md">📕 한국어</a>  
 # dcinside-crawler
-<p align="center"><img src="/GLOBAL_README/icon.png" alt="Dcinside crawler logo" height="350"></p>
+<p align="center"><img src="/GLOBAL_README/icon.png" alt="Dcinside crawler logo" height="200"></p>
 
 dcinside-crawler는 <a href="https://www.dcinside.com/">디씨인사이드</a>를 대상으로한 웹 크롤러입니다.  
 지인 경찰분이 <a href="https://www.dcinside.com/">디씨인사이드</a>를 대상으로한 크롤러가 필요하다고 부탁하여 개발하게 되었습니다.  
@@ -26,7 +26,7 @@ dcinside-crawler는 <a href="https://www.dcinside.com/">디씨인사이드</a>�
 
 ## 사용 방법
 ### 0. 검색 대상 설정
-<p align="center"><img src="/GLOBAL_README/00_config.png" alt="설정" height="350"></p>  
+<p align="center"><img src="/GLOBAL_README/00_config.png" alt="설정" height="200"></p>  
 <ul>
   <li>크롤링을 수행 할 갤러리 ID를 json 파일의 key 값으로 하여, **search_target.json** 설정 파일을 본인의 사용 목적에 맞게 수정합니다.</li>
 </ul>
@@ -40,25 +40,30 @@ dcinside-crawler는 <a href="https://www.dcinside.com/">디씨인사이드</a>�
 </ol>
 
 ### 1. 스크립트 실행
-<p align="center"><img src="/GLOBAL_README/01_run.png" alt="python dc_crawler.py" height="350"></p>  
+<p align="center"><img src="/GLOBAL_README/01_run.png" alt="python dc_crawler.py" height="200"></p>  
 <ul>
   <li>python dc_crawler.py</li>
 </ul>
 
 ### 2. 메뉴 선택
-<p align="center"><img src="/GLOBAL_README/02_menu.png" alt="Menu" height="350"></p>  
+<p align="center"><img src="/GLOBAL_README/02_menu.png" alt="Menu" height="200"></p>  
 <ol>
-  <li><p align="center"><img src="/GLOBAL_README/03_show_targets.png" alt="Target list" height="350"></p>Show Search Targets: 검색 대상과 설정을 확인합니다.</li>
-  <li><p align="center"><img src="/GLOBAL_README/04_edit_targets.png" alt="Edit target" height="350"></p>Edit Search Targets: 검색 대상을 수정하거나 추가합니다.</li>
-  <li><p align="center"><img src="/GLOBAL_README/07_export_csv.png" alt="Export CSV" height="350"></p>Export CSV File: 데이터를 CSV 파일 포맷으로 출력합니다.</li>
+  <p align="center"><img src="/GLOBAL_README/03_show_targets.png" alt="Target list" height="150"></p>
+  <li>Show Search Targets: 검색 대상과 설정을 확인합니다.</li>
+  <p align="center"><img src="/GLOBAL_README/04_edit_targets.png" alt="Edit target" height="150"></p>
+  <li>Edit Search Targets: 검색 대상을 수정하거나 추가합니다.</li>
+  <p align="center"><img src="/GLOBAL_README/07_export_csv.png" alt="Export CSV" height="150"></p>
+  <li>Export CSV File: 데이터를 CSV 파일 포맷으로 출력합니다.</li>
   <li>Exit Program: 프로그램을 안전하게 종료합니다.</li>
 </ol>
 
 ### 3. 검색 대상 수정
-<p align="center"><img src="/GLOBAL_README/04_edit_targets.png" alt="Edit target" height="350"></p>  
+<p align="center"><img src="/GLOBAL_README/04_edit_targets.png" alt="Edit target" height="200"></p>  
 <ol>
-  <li><p align="center"><img src="/GLOBAL_README/05_add_targets.png" alt="Add target" height="350"></p>Add Search Target Gallery: 새로운 검색 대상을 추가합니다.</li>
-  <li><p align="center"><img src="/GLOBAL_README/06_edit_settings.png" alt="Edit target" height="350"></p>Select specific gallery: 검색 대상을 수정합니다.</li>
+  <p align="center"><img src="/GLOBAL_README/05_add_targets.png" alt="Add target" height="150"></p>
+  <li>Add Search Target Gallery: 새로운 검색 대상을 추가합니다.</li>
+  <p align="center"><img src="/GLOBAL_README/06_edit_settings.png" alt="Edit target" height="150"></p>
+  <li>Select specific gallery: 검색 대상을 수정합니다.</li>
 </ol>
 
 ---
